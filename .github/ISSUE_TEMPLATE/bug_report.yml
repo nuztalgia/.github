@@ -9,9 +9,8 @@ body:
         <h3>Before we begin...</h3>
         Hello there! This form is for <b>bug reports</b> only.
         If you're not sure whether what you're experiencing is actually a bug,
-        <br>please open a
-        <a href="https://github.com/nuztalgia/.github/discussions">discussion</a>
-        about it instead. Thanks in advance! 💜
+        <br>please open a <a href="../discussions">discussion</a> about it
+        instead. Thanks in advance! 💜
 
   - type: checkboxes
     attributes:
@@ -22,8 +21,7 @@ body:
             code.
           required: true
         - label:
-            I've looked through the existing
-            [issues](https://github.com/nuztalgia/.github/issues) to ensure this
+            I've looked through the existing [issues](../issues) to ensure this
             isn't a duplicate.
           required: true
 

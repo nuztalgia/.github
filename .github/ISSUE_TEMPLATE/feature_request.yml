@@ -6,13 +6,11 @@ body:
     attributes:
       value:
         # prettier-ignore
-        <h3>Before we begin...</h3>
-        Hello there! This form is for well-defined <b>feature requests</b> only.
-        If you're still in the brainstorming phase and/or would just like to
-        suggest a general idea, please open a
-        <a href="https://github.com/nuztalgia/.github/discussions">discussion</a>
+        <h3>Before we begin...</h3> Hello there!
+        This form is for well-defined <b>feature requests</b> only. If you're
+        still in the brainstorming phase and/or would just like to suggest a
+        general idea, please open a <a href="../discussions">discussion</a>
         about it instead. Thanks in advance! 💜
-
   - type: checkboxes
     attributes:
       label: Checklist
@@ -22,8 +20,7 @@ body:
             the required boxes below.
           required: true
         - label:
-            I've looked through the existing
-            [issues](https://github.com/nuztalgia/.github/issues) to ensure this
+            I've looked through the existing [issues](../issues) to ensure this
             isn't a duplicate.
           required: true
 
