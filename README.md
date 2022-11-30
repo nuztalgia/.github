@@ -4,8 +4,8 @@
 </h1></div>
 
 Hi there! This repository holds all of my default [community health files].
-These files govern all repos owned by my personal [GitHub account](/../../..).
-Exceptions are made for individual repos on a **per-file**[^exceptions] basis.
+These files govern all repositories that belong to my [personal GitHub account].
+Exceptions are made for individual repos on a per-file[^exceptions] basis.
 
 Aside from the two caveats mentioned [below](#license), the contents of this
 repo are licensed under [CC0](/LICENSE) and are therefore in the public domain.
@@ -16,6 +16,7 @@ them helpful! 💜
 
 - 📁 [`ISSUE_TEMPLATE/`](/.github/ISSUE_TEMPLATE/)[^file-naming]
   - 🐛 [`bug_report.yml`](/.github/ISSUE_TEMPLATE/bug_report.yml)
+  - 🔗️ [`config.yml`](/.github/ISSUE_TEMPLATE/config.yml)
   - ✨ [`feature_request.yml`](/.github/ISSUE_TEMPLATE/feature_request.yml)
 - 🤝 [`code_of_conduct.md`](/.github/code_of_conduct.md)
 - 💝 [`contributing.md`](/.github/contributing.md)
@@ -24,9 +25,11 @@ them helpful! 💜
 - 🌟 [`pull_request_template.md`](/.github/pull_request_template.md?plain=1)
 - 🔐 [`security.md`](/.github/security.md)
 
+Community standards? [Check.](/../../community) ✅
+
 ## License
 
-For the most part, the files in this repository are entirely covered by the
+For the most part, the files in this repository are wholly covered by the
 [Creative Commons Zero v1.0 Universal](/LICENSE) license. The only exceptions
 are as follows:
 
@@ -43,11 +46,11 @@ are as follows:
 
 [community health files]:
   https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
+[personal github account]: /../../..
 [cc-by-4.0]:
   https://github.com/EthicalSource/contributor_covenant/blob/release/LICENSE.md
 [developer certificate of origin]: https://developercertificate.org/
-[dco document]:
-  https://github.com/nuztalgia/.github/blob/main/.github/developer_certificate.md#dco-v11-full-text
+[dco document]: /.github/developer_certificate.md#dco-v11-full-text
 
 [^exceptions]:
     If `example-repo` has a file with the same name as one of the files included

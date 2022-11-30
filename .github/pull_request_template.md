@@ -21,7 +21,7 @@
 <!-- All of the following statements MUST be true in order for this PR to be
      considered. Put an "x" inside each box to check it, like so: [x] -->
 - [ ] I have read this project's code of conduct and contributing guidelines.
-- [ ] This contribution fully complies with this project's [license](../blob/main/LICENSE).
+- [ ] This contribution fully complies with this repository's `LICENSE` file.
 - [ ] This contribution fully complies with the Developer Certificate of Origin.
 
 <!-- OPTIONAL: Feel free to remove any sections of this template

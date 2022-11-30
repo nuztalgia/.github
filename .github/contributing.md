@@ -8,11 +8,11 @@ make sure you wholeheartedly agree to abide by it. 💖
 ## Pull Requests
 
 Want to contribute some code and/or documentation to this project? That's
-awesome! Feel free to fork this repo and open a PR with any changes you'd like
-to propose. And don't worry about your potential contributions being "too
-small", even if you're just fixing a typo or rewording a sentence to be more
-clear. Any improvements are welcome and very much appreciated - so **thank you**
-in advance!
+awesome! Feel free to fork the repo and open a PR with any changes you'd like to
+propose. And don't worry about your potential contributions being "too small",
+even if you're just fixing a typo or rewording a sentence to be more clear. Any
+improvements are welcome and very much appreciated - so **thank you** in
+advance!
 
 ### After you open a PR
 
@@ -41,12 +41,12 @@ it.
 
 ### Licensing
 
-All contributions to this project's codebase **must** adhere to the `LICENSE`
-file in the root directory of this repository.
+All contributions to this project's codebase **must** adhere to its license, as
+stipulated by the `LICENSE` file in the root directory of the repository.
 
-Furthermore, by submitting a pull request to this repo, you certify that you
+Furthermore, by submitting a pull request to this project, you certify that you
 authored or otherwise have the necessary rights to submit **all** of the code
-included in that PR to this project. Essentially, your contributions must comply
-with the [Developer Certificate of Origin](https://developercertificate.org/),
-which protects this project and all of its contributors. For more information,
-please see the [`developer_certificate`](developer_certificate.md) file.
+contained in that PR. Essentially, your contributions must comply with the
+[Developer Certificate of Origin](https://developercertificate.org/), which
+protects this project and all of its contributors. For more information, please
+see [this file](developer_certificate.md).

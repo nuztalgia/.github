@@ -2,8 +2,8 @@
 
 We respect intellectual property rights and want to make sure that all incoming
 contributions are correctly attributed and licensed. The Developer Certificate
-of Origin (or "DCO" for short) is a lightweight mechanism to help us do this. In
-essence, the DCO ensures that every contribution to this project:
+of Origin (or "DCO" for short) is a lightweight mechanism to help us do this.
+In essence, the DCO ensures that every contribution to this project:
 
 1. Is originally authored by the person contributing it, and/or
 2. Is submitted with the understanding that the person contributing it has the
@@ -14,7 +14,7 @@ official source: <http://developercertificate.org>
 
 ## Our Process
 
-In the body of every pull request that you submit to this repository, you'll be
+In the body of every pull request that you submit to this project, you'll be
 prompted to check a box that looks like this:
 
 > - [x] This contribution fully complies with the Developer Certificate of Origin.
