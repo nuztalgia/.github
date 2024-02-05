@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v4.5.0
     hooks:
       - id: check-case-conflict
       - id: check-merge-conflict
@@ -18,19 +18,19 @@ repos:
       - id: text-unicode-replacement-char
 
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v3.0.0-alpha.6
+    rev: v4.0.0-alpha.8
     hooks:
       - id: prettier
         args: ["--prose-wrap=always"]
         exclude: ^\.github/(developer_certificate|pull_request_template)\.md$
 
   - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.5.1
+    rev: v1.5.4
     hooks:
       - id: remove-tabs
 
   - repo: https://github.com/sirosen/texthooks
-    rev: 0.5.0
+    rev: 0.6.4
     hooks:
       - id: fix-smartquotes
       - id: fix-spaces
